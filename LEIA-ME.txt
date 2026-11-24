@@ -1,0 +1,11 @@
+PRÉVIA — BRENA MARIA | Psicóloga Clínica
+
+Abra index.html no navegador ou publique esta pasta em sua hospedagem estática (GitHub Pages). Todos os arquivos devem permanecer juntos, mantendo a pasta assets/.
+
+Fontes: versão original fornecida (dados de contato, redes sociais e local Neo Office — Jardins); novas capturas fornecidas (formação pela UFS, Aracaju, TCC e Terapia do Esquema, visão clínica e interesses pessoais). As descrições das abordagens são explicações gerais. As três fotografias vieram dos arquivos individuais enviados; nenhuma imagem de publicação com texto foi incluída. As fotos foram convertidas para WebP, mantendo a resolução original.
+
+Identidade: interpretação editorial da paleta vinho, creme e tons naturais das publicações, não uma identidade oficial homologada. As fontes tipográficas são carregadas do Google Fonts, com alternativas locais caso estejam indisponíveis.
+
+Animações: entrada sequencial no hero, revelação ao rolar, microinterações, menu mobile, abertura das respostas e barra de progresso. Respeita prefers-reduced-motion. FAQ visível independentemente das animações.
+
+Prévia não oficial, com meta robots noindex/nofollow (não é controle de acesso). Antes da publicação definitiva, confirmar contatos, endereço e CRP, obter autorização para uso de imagens e conteúdo e remover noindex somente após aprovação. Nenhum depoimento, preço ou especialidade adicional foi inventado.
